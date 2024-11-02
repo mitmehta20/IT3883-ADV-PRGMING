@@ -1,0 +1,8 @@
+{"firstName": "Eric", "lastName": "James", "studentId": "000123456", "gpa": "3.2"}
+{"firstName": "Leslie", "lastName": "Jones", "studentId": "000122455", "gpa": "3.9"}
+{"firstName": "George", "lastName": "Wayne", "studentId": "000132654", "gpa": "1.9"}
+{"firstName": "Jennifer", "lastName": "Fulton", "studentId": "000213789", "gpa": "2.0"}
+{"firstName": "Lily", "lastName": "Smith", "studentId": "000432456", "gpa": "3.5"}
+{"firstName": "Luke", "lastName": "Johnston", "studentId": "000231543", "gpa": "2.5"}
+{"firstName": "Judy", "lastName": "Stack", "studentId": "000241432", "gpa": "2.3"}
+{"firstName": "Steve", "lastName": "Ray", "studentId": "000321456", "gpa": "3.8"}

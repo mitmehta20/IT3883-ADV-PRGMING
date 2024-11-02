@@ -1,0 +1,9 @@
+First Name          Last Name           Student ID          GPA                 Academic Status     
+Eric                James               000123456           3.2                 Regular Standing    
+Leslie              Jones               000122455           3.9                 Dean’s List         
+George              Wayne               000132654           1.9                 Probation           
+Jennifer            Fulton              000213789           2.0                 Regular Standing    
+Lily                Smith               000432456           3.5                 Dean’s List         
+Luke                Johnston            000231543           2.5                 Regular Standing    
+Judy                Stack               000241432           2.3                 Regular Standing    
+Steve               Ray                 000321456           3.8                 Dean’s List         
